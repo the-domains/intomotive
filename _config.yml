@@ -1,14 +1,29 @@
+name: intomotive
+favicon: null
 layout_spectrum: 0.9342329
+typography_spectrum: 0.1057348
+title: Intomotive - Building succesfull marketing people
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4563502
-  lightness: 0.4641577
-  brandStrength: 0.9902752
   brandColors:
     - '#FFFFFF'
     - '#010101'
     - '#C6C6C6'
     - '#272727'
     - '#919191'
+  brandStrength: 0.9902752
+  lightness: 0.4641577
+  saturation: 0.4563502
   rhythmicContrast: 0.2051634
-typography_spectrum: 0.1057348
-name: intomotive
+purpose: []
